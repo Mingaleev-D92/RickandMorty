@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Рик и Морти</string>
+    <string name="Character">Персонажи</string>
+    <string name="Location">Локации</string>
+    <string name="Episode">Эпизоды</string>
+</resources>
